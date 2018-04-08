@@ -37,6 +37,7 @@ NOTE: This step must be carried out prior to any analysis.
 
 1. Click "Get image", browse to your image and click "open". Your image will appear in a new window.
 
+![alt text](https://github.com/katiebinley/MorphometricAnalysis/blob/master/Step1.png)
 
 
 ## Polygon Area
